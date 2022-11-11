@@ -112,7 +112,7 @@
                 duration = settings.particles.duration;
 
             function ParticlePool(length) {
-                // create and populate particle pool
+
                 particles = new Array(length);
                 for (var i = 0; i < particles.length; i++)
                     particles[i] = new Particle();
@@ -120,7 +120,6 @@
             ParticlePool.prototype.add = function (x, y, dx, dy) {
                 particles[firstFree].initialize(x, y, dx, dy);
 
-                // handle circular queue
                 firstFree++;
                 if (firstFree == particles.length) firstFree = 0;
                 if (firstActive == firstFree) firstActive++;
