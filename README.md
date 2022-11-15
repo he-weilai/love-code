@@ -1,18 +1,25 @@
-## ❤️爱心代码
+## ❤️爱心代码集合
 
 ### 🤩使用方法
 
 #### 💌本地使用
-将 **love.html** 代码文件下载至本地，并使用浏览器打开
+将 **html** 代码文件下载至本地，并使用浏览器打开
 
 #### 💌在线预览
-点击网址即可在线预览
-[https://www.huawuque404/love.html](https://www.huawuque404.cn/love.html)
+点击网址即可在线预览效果
+
+|   文件   |   网页效果   | 说明  |
+| ---- | ---- |---- |
+|   love.html   |   [https://www.huawuque404/love.html](https://www.huawuque404.cn/love.html)   | 爱心代码初版 |
+|   love-add.html   |   [https://www.huawuque404/love-add.html](https://www.huawuque404.cn/love-add.html)   | 在爱心中增加了文字 |
+|   ---   |   ---   |  ---  |
+
 
 欢迎大家一起来创造更多好看的爱心效果！🍉
 
 ### 👨‍💻代码规范
-- 如果要增加更多好看的爱心代码，则 PR 时 HTML 文件以love2、love3、love4依次命名，如果有对应的独立CSS和JavaScript文件，则命名为love2.css和love2.js。一种效果如果有多个代码文件则统一放在一个文件夹中，例如 love2.html，love2.css，love2.js 放在文件夹 love2 中
+- 如果要增加更多好看的爱心代码，则 PR 时 HTML 文件以 love2 、love3 、love4 依次命名，如果有对应的独立 CSS 和 JavaScript 文件，则命名为 love2.css 和 love2.js 。一种效果如果有多个代码文件则统一放在一个文件夹中，例如 love2.html，love2.css，love2.js 放在文件夹 love2 中
+- 如果是增加功能，可以重写代码合并。但是更推荐采用保留原文件，新增一个`原文件名-add`的文件的方式。例如首先有一个love.html文件，新增代码则新建一个love-add.html文件，增加第二次功能则新建一个 love-add2.html 文件
 
 联系我
 
