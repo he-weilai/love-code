@@ -21,6 +21,12 @@
 - 如果要增加更多好看的爱心代码，则 PR 时 HTML 文件以 love2 、love3 、love4 依次命名，如果有对应的独立 CSS 和 JavaScript 文件，则命名为 love2.css 和 love2.js 。一种效果如果有多个代码文件则统一放在一个文件夹中，例如 love2.html，love2.css，love2.js 放在文件夹 love2 中
 - 如果是增加功能，可以重写代码合并。但是更推荐采用保留原文件，新增一个`原文件名-add`的文件的方式。例如首先有一个love.html文件，新增代码则新建一个love-add.html文件，增加第二次功能则新建一个 love-add2.html 文件
 
+本人尚在学习中，如有不当之处，还望各位大佬前辈指正！
+
 联系我
+
+博客：[https://blog.csdn.net/huawuque404](https://blog.csdn.net/huawuque404)
+
+微信：
 
 ![微信](https://user-images.githubusercontent.com/109327586/201320198-51fc1cc6-af52-47fd-8ed4-e3c2d5eb3dfd.png)
