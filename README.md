@@ -13,7 +13,8 @@
 |   love.html   |   [https://www.huawuque404/love.html](https://www.huawuque404.cn/love.html)   | 爱心代码初版 |
 |   love-add.html   |   [https://www.huawuque404/love-add.html](https://www.huawuque404.cn/love-add.html)   | 在爱心中增加了文字 |
 |   love2.html   |   [https://www.huawuque404/love2.html](https://www.huawuque404.cn/love2.html)   |  点击屏幕爱心飞屏效果  |
-| --- | --- |
+| love-add2.html | [https://www.huawuque404/love-add2.html](https://www.huawuque404.cn/love-add2.html) | 添加背景图片 |
+| --- | --- | --- |
 
 
 欢迎大家一起来创造更多好看的爱心效果！🍉
