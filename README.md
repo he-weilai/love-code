@@ -17,6 +17,7 @@
 |   love2.html   |   [https://www.huawuque404/love2.html](https://www.huawuque404.cn/love2.html)   |  点击屏幕爱心飞屏效果  |
 | love-add2.html | [https://www.huawuque404/love-add2.html](https://www.huawuque404.cn/love-add2.html) | 添加背景图片 |
 | love-add3.html | [https://www.huawuque404/love-add3.html](https://www.huawuque404.cn/love-add3.html) | 爱心代码跳动效果 |
+| love3.html | [https://www.huawuque404/love3.html](https://www.huawuque404.cn/love3.html) | 文字满屏漂浮效果 |
 | --- | --- | --- |
 
 
