@@ -18,6 +18,7 @@
 | love-add2.html | [https://www.huawuque404/love-code/love-add2.html](https://www.huawuque404.cn/love-code/love-add2.html) | 添加背景图片 |
 | love-add3.html | [https://www.huawuque404/love-code/love-add3.html](https://www.huawuque404.cn/love-code/love-add3.html) | 爱心代码跳动效果 |
 | love3.html | [https://www.huawuque404/love-code/love3.html](https://www.huawuque404.cn/love-code/love3.html) | 文字满屏漂浮效果 |
+| love4.html | [https://www.huawuque404/love-code/love4.html](https://www.huawuque404.cn/love-code/love4.html) | 文字随机掉落炫酷黑客代码效果 |
 | --- | --- | --- |
 
 
