@@ -34,4 +34,6 @@
 
 #### 🍊微信：
 
+加好友备注`github`
+
 ![微信](https://user-images.githubusercontent.com/109327586/201320198-51fc1cc6-af52-47fd-8ed4-e3c2d5eb3dfd.png)
