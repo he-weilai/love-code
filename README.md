@@ -8,6 +8,8 @@
 #### 💌在线预览
 点击网址即可在线预览效果
 
+注意：在`电脑端`显示效果最佳，手机端可能无法正常显示
+
 |   文件   |   网页效果   | 说明  |
 | ---- | ---- |---- |
 |   love.html   |   [https://www.huawuque404/love.html](https://www.huawuque404.cn/love.html)   | 爱心代码初版 |
