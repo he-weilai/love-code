@@ -8,7 +8,7 @@ CANVAS_CENTER_X = CANVAS_WIDTH / 2  # 画布中心的X轴坐标
 CANVAS_CENTER_Y = CANVAS_HEIGHT / 2  # 画布中心的Y轴坐标
 IMAGE_ENLARGE = 11  # 放大比例
  
-HEART_COLOR = "#EEAEEE"  #引号内修改颜色！颜色代码放在文章末尾
+HEART_COLOR = "#EEAEEE"  # 引号内修改颜色！颜色代码放在文章末尾
  
 def heart_function(t, shrink_ratio: float = IMAGE_ENLARGE):
     """
