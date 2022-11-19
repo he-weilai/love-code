@@ -20,6 +20,7 @@
 | love3.html | [https://www.huawuque404.cn/love-code/love3.html](https://www.huawuque404.cn/love-code/love3.html) | 文字满屏漂浮效果 |
 | love4.html | [https://www.huawuque404.cn/love-code/love4.html](https://www.huawuque404.cn/love-code/love4.html) | 文字随机掉落炫酷黑客代码效果 |
 | 流星雨.html | [https://www.huawuque404.cn/love-code/stars.html](https://www.huawuque404.cn/love-code/stars.html) | 流星雨效果 |
+| 星空特效.html | [https://www.huawuque404.cn/love-code/star.html](https://www.huawuque404.cn/love-code/star.html) | 星空旋转效果 |
 | --- | --- | --- |
 
 - 其它语言代码下载或者复制在相应编译器中运行查看效果
