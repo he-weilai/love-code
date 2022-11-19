@@ -19,6 +19,7 @@
 | love-add3.html | [https://www.huawuque404.cn/love-code/love-add3.html](https://www.huawuque404.cn/love-code/love-add3.html) | 爱心代码跳动效果 |
 | love3.html | [https://www.huawuque404.cn/love-code/love3.html](https://www.huawuque404.cn/love-code/love3.html) | 文字满屏漂浮效果 |
 | love4.html | [https://www.huawuque404.cn/love-code/love4.html](https://www.huawuque404.cn/love-code/love4.html) | 文字随机掉落炫酷黑客代码效果 |
+| 流星雨.html | [https://www.huawuque404.cn/love-code/stars.html](https://www.huawuque404.cn/love-code/stars.html) | 流星雨效果 |
 | --- | --- | --- |
 
 - 其它语言代码下载或者复制在相应编译器中运行查看效果
