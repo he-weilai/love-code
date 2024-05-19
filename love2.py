@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-# Author : He Jin
-# my QQ number : 3493349090
-# Date : 2022/11/17 20:39
-
 import turtle
 import time
 def LittleHeart():
@@ -59,3 +54,5 @@ if me !='':
     turtle.write(me, font=(20,), align="center", move=True)
     window=turtle.Screen()
     window.exitonclick()
+
+# 程序员何未来GitHub爱心代码项目github.com/he-weilai/love-code
