@@ -42,3 +42,4 @@ int main()
     getchar(); // 防止控制台程序闪退
     return 0;
 }
+// 程序员何未来GitHub爱心代码项目github.com/he-weilai/love-code
