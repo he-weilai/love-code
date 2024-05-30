@@ -37,10 +37,4 @@
 
 #### 📢博客：[https://blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
-#### 🍊微信：
-
-加好友备注`github`
-
-![微信号_243x239](https://user-images.githubusercontent.com/109327586/204129722-898d481f-1735-452f-8a60-9bf298dc5bce.png)
-
 
